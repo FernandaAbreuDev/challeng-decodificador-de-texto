@@ -2,7 +2,7 @@
 Este repositório contém a solução para o desafio Decodificador de Texto, parte do curso "Praticando Lógica de Programação" da Alura , em parceria com o programa Oracle Next Education .
 
 🌟 **Experimente Agora**
-Explore a ferramenta em https://github.com/FernandaAbreuDev/desafio-decodificador-de-texto.git e veja como a criptografia pode transformar seu texto.
+Explore a ferramenta em [https://github.com/FernandaAbreuDev/desafio-decodificador-de-texto.git](https://fernandaabreudev.github.io/desafio-decodificador-alura/) e veja como a criptografia pode transformar seu texto.
 
 🛠️ **Funcionalidades**
 Criptografar e Descriptografar: Converta seu texto em códigos secretos e retorne ao formato original com facilidade.
